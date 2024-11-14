@@ -47,3 +47,5 @@ More than 30 automated charts: Total Revenue | Total Profit | Total Profit Margi
 
 🌐NAVIGATION sheet
 The Navigation Sheet serves as a dashboard, providing quick access to the necessary sheets in the spreadsheet. Simply click on any of the buttons to jump to the relevant sheet.
+
+https://www.youtube.com/watch?v=45s_TWWYMUg
